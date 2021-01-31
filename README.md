@@ -29,8 +29,6 @@ compositions. Wherein, Fridge Jam promotes
 autonomy by allowing users to decide their tools to
 navigate environments of pre-made audio.
 
-<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image9.jpg" />
-
 [back to top](#table-of-contents)
 
 ## Overview
@@ -60,6 +58,8 @@ of .mp3 files to 8-bit data structures to allow
 arduino to call on and manipulate audio via a
 speaker module.
 
+[back to top](#table-of-contents)
+
 ## Inspiration
 Fridge Jam’s design follows influence from the
 interaction flow used in the early 2000s Leapfrog
@@ -78,6 +78,8 @@ draw of certain highlighted words suggested
 poking those highlights.
 
 <img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image9.jpg" />
+
+[back to top](#table-of-contents)
 
 ## User Research
 In user experience considerations, we put
@@ -111,27 +113,39 @@ detection and promote user agency
 
 <img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image9.jpg" />
 
+[back to top](#table-of-contents)
+
 ## Schematic
 
 <img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image9.jpg" />
 
 Fridge Jam consists of two input devices, and one output device. The input is handled by an RC522 NFC/RFID reader and a MPR121 capacitive touch module. On a complex addition, a LCD 16x02 screen may also be included. Pending time constraints, consideration of this module can be utilized flexibly. 
 
+[back to top](#table-of-contents)
+
 ## NFC
 
+
+[back to top](#table-of-contents)
 
 ## RC522
 
 The RC522 functions as the NFC reader in this schematic. The RC522 allows reading of hexadecimal data that can then be compared to a written c++ library.  This library would further contain data for audio PCM files. 
 
+[back to top](#table-of-contents)
+
 ## MPR121
 
 The MPR121 has been included to allow users to define unique types of buttons within their space. (See paragraph 2.3 for more technical info about the MPR121 module).
+
+[back to top](#table-of-contents)
 
 ## Reflection
 Fridge Jam works for both musical experts and casual users. On a domestic level, Fridge Jam is a device that can be utilized in a bedroom or household environment. As buttons can be whatever a user choses, the reliability of the build is as the user defines. Buttons can be as large or as small as desired. As such, this customizability allows this device to work for a wide age range. As smaller buttons may hold ingestion or breakability dangers when used by younger children. Buttons can be replaced by plush toys or even food items. Inviting interactivity or teaching tactility and response to developing toddlers. 
 
 On a larger scale, this conductivity capacitance can be utilized in a guerilla context. When Fridge Jam is connected to commonly touched surfaces such as buttons in an elevator, trash can handles, car doors, or even bus seats -- the mundane gets transformed into public, interactive soundscapes. Wherein, there is opportunity for surprise. Users of those mundane interactions don’t experience auditory feedback. That unexpected element promotes a sense of community, as many individuals are seemingly experiencing the same out of the ordinary phenomenon of musical bus seats. Fridge Jam affords opportunities for musical co-creation in the public domain. 
+
+[back to top](#table-of-contents)
 
 ## Bibliography
 
@@ -146,3 +160,5 @@ NXP B.V. MIFARE Classic EV1 1K - Mainstream contactless smart card IC for fast a
 Paragon ID. Do you have a hole in your business model that could be filled by Radio frequency identification (RFID) technology? N.d. Date accessed 11 December 2020.
 
 Robert Fohlin, Peter Kun, Laura Rebolo, Markus Jansson, Niels Swinkels. “Music co-creation in public spaces via interactive coffee tables.” Department of Applied IT Chalmers University of Technology, Sweden. N.d. Scientific Journal. Date accessed 11 December 2020. 
+
+[back to top](#table-of-contents)
