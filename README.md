@@ -9,7 +9,6 @@
 1. [Inspiration](#inspiration)
 1. [User Research](#user-research)
 1. [Schematic](#schematic)
-1. [NFC Technology](#nfc)
 1. [RC522](#rc522)
 1. [MPR121](#mpr121)
 1. [Reflection](#reflection)
@@ -35,6 +34,11 @@ Designed similarly to MIDI devices such as soundboards and launchpads, Fridge Ja
 TL;DR
 Fridge Jam’s design follows influence from the interaction flow used in the early 2000s Leapfrog tablets, LeapPad. These tablets utilized NFC technology to read pages of a book out loud to a child interacting with it. 
 
+<img align="center" alt="early 2000s leapfrog tablet blue and green folder" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image5.jpg" />
+
+TL;DR
+Similarly, capacitive interaction models have also been built in coffee tables. A group at the Chalmers University of Technology in Sweden designed an Interactive Coffee Table. This table was a musical device that promoted modes of co-creation between strangers in a coffee shop.
+
 [back to top](#table-of-contents)
 
 ## User Research
@@ -53,11 +57,6 @@ Primary goals of interaction:
 <img align="center" alt="microcontroller schematic of wires and breadboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image3.jpg" />
 
 Fridge Jam consists of two input devices, and one output device. The input is handled by an RC522 NFC/RFID reader and a MPR121 capacitive touch module. On a complex addition, a LCD 16x02 screen may also be included. Pending time constraints, consideration of this module can be utilized flexibly. 
-
-[back to top](#table-of-contents)
-
-## NFC
-
 
 [back to top](#table-of-contents)
 
