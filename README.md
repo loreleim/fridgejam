@@ -5,7 +5,7 @@
 
 ## Table of Contents
 1. [Abstract](#abstract)
-1. [Overview](#overview)
+1. [ACM Standards](#acm-standards)
 1. [Inspiration](#inspiration)
 1. [User Research](#user-research)
 1. [Schematic](#schematic)
@@ -31,32 +31,11 @@ navigate environments of pre-made audio.
 
 [back to top](#table-of-contents)
 
-## Overview
-1. B.4.1: Input/Output Devices: Utilization of
-Arduino modules such as the MPR121 Capacitive
-Touch Sensor and the RC522 Radio Frequency
-Identification aim to function as input devices for
-data systems. Speakers and computing audio are
-utilized as forms of output devices.
-1. B.4.3: Interconnections (Subsystems): Fridge Jam
-is designed as a closed loop system. This loop
-starts and ends with the power button -- where at
-start -- users are prompted to utilize NFC UIDs to
-change various sound libraries within the device.
-This loop continues through various opportunities
-of interaction, including utilization of non-switch
-buttons to play respective audio scales, unique
-identifiers and audio libraries.
-E.2: Data Storage Representations: Data in this
-device is represented by various forms of
-Hexadecimal, Binary, and 8 bit information.
-Hexadecimal and Binary data are handled on the
-NFC layers. Where 8 bit info has been handled on
-the audio output layer.
-H.5.5: Sound and Music Computing: Conversion
-of .mp3 files to 8-bit data structures to allow
-arduino to call on and manipulate audio via a
-speaker module.
+## ACM Standards
+* B.4.1: Input/Output Devices: Utilization of Arduino modules such as the MPR121 Capacitive Touch Sensor and the RC522 Radio Frequency Identification aim to function as input devices for data systems. Speakers and computing audio are utilized as forms of output devices.
+* B.4.3: Interconnections (Subsystems): Fridge Jam is designed as a closed loop system. This loop starts and ends with the power button -- where at start -- users are prompted to utilize NFC UIDs to change various sound libraries within the device. This loop continues through various opportunities of interaction, including utilization of non-switch  buttons to play respective audio scales, unique identifiers and audio libraries.
+* E.2: Data Storage Representations: Data in this device is represented by various forms of Hexadecimal, Binary, and 8 bit information. Hexadecimal and Binary data are handled on the NFC layers. Where 8 bit info has been handled on the audio output layer.
+* H.5.5: Sound and Music Computing: Conversion of .mp3 files to 8-bit data structures to allow arduino to call on and manipulate audio via a speaker module.
 
 [back to top](#table-of-contents)
 
