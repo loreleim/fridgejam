@@ -78,6 +78,8 @@ Fridge Jam works for both musical experts and casual users. On a domestic level,
 
 On a larger scale, this conductivity capacitance can be utilized in a guerilla context. When Fridge Jam is connected to commonly touched surfaces such as buttons in an elevator, trash can handles, car doors, or even bus seats -- the mundane gets transformed into public, interactive soundscapes. Wherein, there is opportunity for surprise. Users of those mundane interactions don’t experience auditory feedback. That unexpected element promotes a sense of community, as many individuals are seemingly experiencing the same out of the ordinary phenomenon of musical bus seats. Fridge Jam affords opportunities for musical co-creation in the public domain. 
 
+<img align="center" alt="microcontroller schematic of wires and breadboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image2.jpg" />
+
 [back to top](#table-of-contents)
 
 ## Bibliography
