@@ -40,23 +40,11 @@ navigate environments of pre-made audio.
 [back to top](#table-of-contents)
 
 ## Inspiration
-Fridge Jam’s design follows influence from the
-interaction flow used in the early 2000s Leapfrog
-tablets, LeapPad (see Figure 1). These tablets
-utilized NFC technology to read pages of a book
-out loud to a child interacting with it. This
-interaction flow predated the digital screen and
-tablet stylus. Further, working simply with the
-affordance a child has with a pen. With this pen,
-children could infer that it needed to touch
-something. As not designed like a crayon, where
-children may consider affordances of coloring or
-drawing. The pen afforded them to use as a poking
-device. This poking function combined with the
-draw of certain highlighted words suggested
-poking those highlights.
 
-<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image9.jpg" />
+<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image1.jpg" />
+
+TL;DR
+Fridge Jam’s design follows influence from the interaction flow used in the early 2000s Leapfrog tablets, LeapPad. These tablets utilized NFC technology to read pages of a book out loud to a child interacting with it. 
 
 [back to top](#table-of-contents)
 
