@@ -16,18 +16,7 @@
 1. [Bibliography](#bibliography)
 
 ## Abstract
-Designed similarly to MIDI devices such as
-soundboards and launchpads, Fridge Jam utilizes
-conductive switches and NFC data frames to
-explore ranges of audio in a closed system
-soundscape. These soundscapes are defined and
-dictated by NFC datacards. Where the NFC
-functionality passports a user to various types of
-audio libraries. Utilization of conductive switches
-allows user agency in formatting their unique
-compositions. Wherein, Fridge Jam promotes
-autonomy by allowing users to decide their tools to
-navigate environments of pre-made audio.
+Designed similarly to MIDI devices such as soundboards and launchpads, Fridge Jam utilizes conductive switches and NFC data frames to explore ranges of audio in a closed system soundscape. These soundscapes are defined and dictated by NFC datacards. Where the NFC functionality passports a user to various types of audio libraries. Utilization of conductive switches allows user agency in formatting their unique compositions. Wherein, Fridge Jam promotes autonomy by allowing users to decide their tools to navigate environments of pre-made audio.
 
 [back to top](#table-of-contents)
 
@@ -41,7 +30,7 @@ navigate environments of pre-made audio.
 
 ## Inspiration
 
-<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image1.jpg" />
+<img align="center" alt="early 2000s leapfrog tablet blue and green folder" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image1.jpg" />
 
 TL;DR
 Fridge Jam’s design follows influence from the interaction flow used in the early 2000s Leapfrog tablets, LeapPad. These tablets utilized NFC technology to read pages of a book out loud to a child interacting with it. 
@@ -49,42 +38,19 @@ Fridge Jam’s design follows influence from the interaction flow used in the ea
 [back to top](#table-of-contents)
 
 ## User Research
-In user experience considerations, we put
-ourselves into the shoes of the lowest
-knowledgeable subject. In the case of music
-development, this would be considered the music
-enthusiast. The enthusiast, upon display of the 66
-key electronic keyboard feels overwhelmed by the
-sheer number of keys available. Or when given the
-child’s recorder, the enthusiast feels unaccustomed
-to a woodwind’s affordance of holes. Those holes,
-in the enthusiast’s mind, apparently must be
-covered in order to make certain notes. But which
-notes, and which way must one’s hand cover
-certain holes? To say the least, musical devices
-that require forms of multitasking or subset
-knowledge, create onboarding experiences that
-drive users away, instead of inviting them in.
+In user experience considerations, we put ourselves into the shoes of the lowest knowledgeable subject. In the case of music development, this would be considered the music enthusiast. The enthusiast, upon display of the 66 key electronic keyboard feels overwhelmed by the sheer number of keys available. Or when given the child’s recorder, the enthusiast feels unaccustomed to a woodwind’s affordance of holes. Those holes, in the enthusiast’s mind, apparently must be covered in order to make certain notes. But which notes, and which way must one’s hand cover certain holes? To say the least, musical devices that require forms of multitasking or subset knowledge, create onboarding experiences that drive users away, instead of inviting them in.
 
 Primary goals of interaction:
-1. Autonomous electroacoustic
-performances
-1. Instrument augmentation through
-considerations on musical scales &
-environment sampling
-1. Capture users’ mental models of buttons
-to further implement affordances of
-buttons for capacitive interfaces.
-1. Utilize HCI guidelines to reinforce feedback
-detection and promote user agency
-
-<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image9.jpg" />
+- [ ] Autonomous electroacoustic performances
+- [ ] Instrument augmentation through considerations on musical scales & environment sampling
+- [ ] Capture users’ mental models of buttons to further implement affordances of buttons for capacitive interfaces.
+- [ ] Utilize HCI guidelines to reinforce feedback detection and promote user agency
 
 [back to top](#table-of-contents)
 
 ## Schematic
 
-<img align="center" alt="Cardboard fridge with onion keyboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image9.jpg" />
+<img align="center" alt="microcontroller schematic of wires and breadboard" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image3.jpg" />
 
 Fridge Jam consists of two input devices, and one output device. The input is handled by an RC522 NFC/RFID reader and a MPR121 capacitive touch module. On a complex addition, a LCD 16x02 screen may also be included. Pending time constraints, consideration of this module can be utilized flexibly. 
 
