@@ -32,13 +32,13 @@ navigate environments of pre-made audio.
 [back to top](#table-of-contents)
 
 ## Overview
-B.4.1: Input/Output Devices: Utilization of
+1. B.4.1: Input/Output Devices: Utilization of
 Arduino modules such as the MPR121 Capacitive
 Touch Sensor and the RC522 Radio Frequency
 Identification aim to function as input devices for
 data systems. Speakers and computing audio are
 utilized as forms of output devices.
-B.4.3: Interconnections (Subsystems): Fridge Jam
+1. B.4.3: Interconnections (Subsystems): Fridge Jam
 is designed as a closed loop system. This loop
 starts and ends with the power button -- where at
 start -- users are prompted to utilize NFC UIDs to
