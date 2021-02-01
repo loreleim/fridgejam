@@ -62,13 +62,34 @@ Fridge Jam consists of two input devices, and one output device. The input is ha
 
 ## RC522
 
-The RC522 functions as the NFC reader in this schematic. The RC522 allows reading of hexadecimal data that can then be compared to a written c++ library.  This library would further contain data for audio PCM files. 
+The RC522 functions as the NFC reader in this schematic. The RC522 allows reading of hexadecimal data that can then be compared to a written c++ library.  This library would further contain data for audio PCM files. Snippet of setup
+
+```
+#include <SPI.h>
+#include <MFRC522.h>
+
+#define RST_PIN         9         
+#define SS_PIN          10 
+
+MFRC522 mfrc522(SS_PIN, RST_PIN); 
+```
 
 [back to top](#table-of-contents)
 
 ## MPR121
 
-The MPR121 has been included to allow users to define unique types of buttons within their space. (See paragraph 2.3 for more technical info about the MPR121 module).
+The MPR121 has been included to allow users to define unique types of buttons within their space. Snippet of setup: 
+
+```
+#include <Wire.h>
+#include "Adafruit_MPR121.h"
+#ifndef _BV
+#define _BV(bit) (1 << (bit)) 
+#endif
+Adafruit_MPR121 cap = Adafruit_MPR121();
+uint16_t lasttouched = 0; // Keeps track of the last pins touched
+uint16_t currtouched = 0; // so we know when buttons are 'released'
+```
 
 [back to top](#table-of-contents)
 
