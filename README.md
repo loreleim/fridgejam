@@ -34,7 +34,7 @@ Designed similarly to MIDI devices such as soundboards and launchpads, Fridge Ja
 TL;DR
 Fridge Jam’s design follows influence from the interaction flow used in the early 2000s Leapfrog tablets, LeapPad. These tablets utilized NFC technology to read pages of a book out loud to a child interacting with it. 
 
-<img align="center" alt="early 2000s leapfrog tablet blue and green folder" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image5.jpg" />
+<img align="center" alt="4 people in a coffee shop around a table" width="500px" src="https://raw.githubusercontent.com/loreleim/fridgejam/main/images/image5.png" />
 
 TL;DR
 Similarly, capacitive interaction models have also been built in coffee tables. A group at the Chalmers University of Technology in Sweden designed an Interactive Coffee Table. This table was a musical device that promoted modes of co-creation between strangers in a coffee shop.
